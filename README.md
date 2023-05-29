@@ -35,7 +35,7 @@ Continuous integration (CI) is set up using GitHub Actions. This ensures that au
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `
+1. Clone the repository: 
 ```git clone https://github.com/RalitsaTerzieva/recipe-app-api```
 2. Navigate to the project directory: ```cd recipe-app-api```
 3. Install the required dependencies: ```pip install -r requirements.txt```
